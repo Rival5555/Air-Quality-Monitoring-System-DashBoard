@@ -2,7 +2,7 @@
 // This is a simplified estimation for demonstration purposes
 // In production, use specific gas curves
 
-export const calculateAQI = (mq135, mq2, pm25 = 0) => {
+export const calculateAQI = (mq135, mq2) => {
     // Simple aggregated index for demo
     // Normalize values to a 0-500 scale
     // MQ-135 (CO2/Ammonia/Benzene) - typically 100-1000+ ppm
