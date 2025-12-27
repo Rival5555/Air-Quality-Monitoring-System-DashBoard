@@ -10,7 +10,7 @@
 
 ## 📸 Project Preview
 
-![Dashboard Preview](./assets/dashboard-preview.png)
+<img src="./screenshots/air.gif" alt="Dashboard Preview" width="900">
 
 > *Add a screenshot or GIF of your dashboard in action*
 
