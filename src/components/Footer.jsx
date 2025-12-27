@@ -107,7 +107,7 @@ const Footer = () => {
                                         <a href="https://linkedin.com/in/hasanali09" className="p-2 rounded-full bg-white/5 hover:bg-white/10 text-gray-500 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-all duration-300 border border-transparent hover:border-white/10">
                                             <FaLinkedin size={16} />
                                         </a>
-                                        <a href="https://x.com/IamHassan09" className="p-2 rounded-full bg-white/5 hover:bg-white/10 text-gray-500 dark:text-gray-400 hover:text-blue-400 dark:hover:text-blue-300 transition-all duration-300 border border-transparent hover:border-white/10">
+                                        <a href="https://x.com/IamHassan_09" className="p-2 rounded-full bg-white/5 hover:bg-white/10 text-gray-500 dark:text-gray-400 hover:text-blue-400 dark:hover:text-blue-300 transition-all duration-300 border border-transparent hover:border-white/10">
                                             <FaTwitter size={16} />
                                         </a>
                                         <a href="hassanali93r@gmail.com" className="p-2 rounded-full bg-white/5 hover:bg-white/10 text-gray-500 dark:text-gray-400 hover:text-red-500 dark:hover:text-red-400 transition-all duration-300 border border-transparent hover:border-white/10">
